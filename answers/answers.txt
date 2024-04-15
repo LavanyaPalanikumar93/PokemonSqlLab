@@ -1,0 +1,1 @@
+mysql -u lavanya -p POKEMON <
